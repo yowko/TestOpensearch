@@ -1,0 +1,13 @@
+﻿{
+  "OpenSearchDescription": {
+    "-xmlns": "http://a9.com/-/spec/opensearch/1.1/",
+    "ShortName": "yowko1 Search",
+    "Description": "Use localhost to test search the Web.",
+    "Tags": "yowko1 search web",
+    "Contact": "yowko@yowko.com",
+    "Url": {
+      "-type": "text/html",
+      "-template": "http://localhost:18735/search/index?q={searchTerms}"
+    }
+  }
+}

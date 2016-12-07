@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+  <ShortName>yowko Search</ShortName>
+  <Description>Use localhost to test search the Web.</Description>
+  <Tags>yowko search web</Tags>
+  <Contact>yowko@yowko.com</Contact>
+  <Url type="text/html"
+      template="http://localhost:18735/search/index?q={searchTerms}" />
+</OpenSearchDescription>
