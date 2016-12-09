@@ -10,6 +10,8 @@ namespace TestOpensearch.Controllers
     {
         public ActionResult Index()
         {
+			
+			throw new exception();
             return View();
         }
 
